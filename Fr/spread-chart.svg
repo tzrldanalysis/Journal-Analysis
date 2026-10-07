@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="sans-serif" font-size="11">
+<rect width="760" height="340" fill="#fff"/>
+<text x="56" y="28" font-size="16" fill="#111">France OAT-Bund 10-year spread roughly doubled in ten weeks</text>
+<text x="56" y="48" font-size="12" fill="#555">Basis points, as quoted in each FT and WSJ edition (edition dates, not market dates)</text>
+<line x1="56" x2="720" y1="290.0" y2="290.0" stroke="#e5e5e5"/><text x="48" y="294.0" text-anchor="end" fill="#555">0</text>
+<line x1="56" x2="720" y1="229.41" y2="229.41" stroke="#e5e5e5"/><text x="48" y="233.41" text-anchor="end" fill="#555">50</text>
+<line x1="56" x2="720" y1="168.82" y2="168.82" stroke="#e5e5e5"/><text x="48" y="172.82" text-anchor="end" fill="#555">100</text>
+<line x1="56" x2="720" y1="108.24" y2="108.24" stroke="#e5e5e5"/><text x="48" y="112.24" text-anchor="end" fill="#555">150</text>
+<rect x="351.1" y="84" width="285.9" height="206" fill="#888" fill-opacity="0.12"/><text x="494.06" y="100" text-anchor="middle" fill="#555">no spread quoted</text>
+<line x1="56" x2="720" y1="290" y2="290" stroke="#999"/>
+<text x="92.9" y="308" text-anchor="middle" fill="#555">Aug</text>
+<text x="378.8" y="308" text-anchor="middle" fill="#555">Sep</text>
+<text x="655.4" y="308" text-anchor="middle" fill="#555">Oct</text>
+<polyline fill="none" stroke="#2a74d6" stroke-opacity="0.5" stroke-width="2" points="74.4,195.5 148.2,197.9 203.6,191.8"/>
+<polyline fill="none" stroke="#2a74d6" stroke-opacity="0.5" stroke-width="2" points="314.2,187.0 323.4,188.2 332.7,189.4"/>
+<polyline fill="none" stroke="#2a74d6" stroke-opacity="0.5" stroke-width="2" points="646.2,147.0 655.4,139.7 692.3,102.2 701.6,125.2"/>
+<circle cx="74.4" cy="195.5" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-07-30: 78bp</title></circle>
+<circle cx="148.2" cy="197.9" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-08-07: 76bp</title></circle>
+<circle cx="203.6" cy="191.8" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-08-13: 81bp</title></circle>
+<circle cx="314.2" cy="187.0" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-08-25: 85bp</title></circle>
+<circle cx="323.4" cy="188.2" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-08-26: 84bp</title></circle>
+<circle cx="332.7" cy="189.4" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-08-27: 83bp</title></circle>
+<circle cx="646.2" cy="147.0" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-09-30: 118bp</title></circle>
+<circle cx="655.4" cy="139.7" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-10-01: 124bp</title></circle>
+<circle cx="692.3" cy="102.2" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-10-05: 155bp</title></circle>
+<circle cx="701.6" cy="125.2" r="3" fill="#2a74d6" fill-opacity="0.5"><title>WSJ 2026-10-06: 136bp</title></circle>
+<polyline fill="none" stroke="#2a74d6" stroke-width="2.5" points="194.3,204.0 268.1,200.3 305.0,196.7 314.2,199.1 323.4,200.3 341.9,200.3"/>
+<polyline fill="none" stroke="#2a74d6" stroke-width="2.5" points="664.7,138.5 692.3,108.2"/>
+<circle cx="83.7" cy="208.8" r="3.5" fill="#2a74d6"><title>FT 2026-07-31: 67bp</title></circle>
+<circle cx="194.3" cy="204.0" r="3.5" fill="#2a74d6"><title>FT 2026-08-12: 71bp</title></circle>
+<circle cx="268.1" cy="200.3" r="3.5" fill="#2a74d6"><title>FT 2026-08-20: 74bp</title></circle>
+<circle cx="305.0" cy="196.7" r="3.5" fill="#2a74d6"><title>FT 2026-08-24: 77bp</title></circle>
+<circle cx="314.2" cy="199.1" r="3.5" fill="#2a74d6"><title>FT 2026-08-25: 75bp</title></circle>
+<circle cx="323.4" cy="200.3" r="3.5" fill="#2a74d6"><title>FT 2026-08-26: 74bp</title></circle>
+<circle cx="341.9" cy="200.3" r="3.5" fill="#2a74d6"><title>FT 2026-08-28: 74bp</title></circle>
+<circle cx="664.7" cy="138.5" r="3.5" fill="#2a74d6"><title>FT 2026-10-02: 125bp</title></circle>
+<circle cx="692.3" cy="108.2" r="3.5" fill="#2a74d6"><title>FT 2026-10-05: 150bp</title></circle>
+<text x="87.7" y="226.8" fill="#111">67bp</text><text x="684.3" y="94.2" text-anchor="end" fill="#111">155bp (WSJ)</text><text x="705.6" y="141.2" fill="#111">136bp</text>
+<line x1="56" x2="80" y1="318" y2="318" stroke="#2a74d6" stroke-width="2.5"/><text x="86" y="322" fill="#555">FT</text><line x1="120" x2="144" y1="318" y2="318" stroke="#2a74d6" stroke-opacity="0.5" stroke-width="2"/><text x="150" y="322" fill="#555">WSJ</text><text x="200" y="322" fill="#555">FT 2 Oct edition said above 125, plotted as 125. Gaps over 10 days are not joined.</text></svg>
